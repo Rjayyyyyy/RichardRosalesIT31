@@ -1,0 +1,70 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.navbar{
+	height: 85px;
+	width: 100%;
+	background: rgba(0,0,0,10);
+}
+.navbar h1{
+	color: white;
+	font-size: 70px;
+	letter-spacing: 5px;
+	font-family: Fantasy;
+	margin-top: 1px;
+}
+.sup{
+	text-align: justify;
+	font-family: courier;
+	font-size: 15px;
+	color: black;
+	margin-left: 55%;
+}
+
+img{
+  border: 5px Solid Gray;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+img:hover {
+  box-shadow: 0 0 10px 9px rgba(80,80,80, 0.5);
+}
+
+
+div.gallery {
+  margin: 36px;
+  float: left;
+  width: 180px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+  margin-left: 10%;
+}
+
+div.p{
+	text-align: center;
+	font-size: 15px;
+	float: left;
+	font-family: courier;
+	margin-left: 28%;
+}
+
+div.gallery1{
+  margin-top: 250px;
+  margin-left: 350%;
+  width: 180px;
+}
+div.gallery1 img{
+  width: 200%;
+  height: 200%;
+}
+div.btn {
+  margin-left: 5%;
+}
